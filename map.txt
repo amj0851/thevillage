@@ -1,0 +1,6 @@
+t,t,t,g,t,t,t,g,
+g,g,g,g,g,t,t,tower,
+g,p,Woofy,h,g,t,
+leo,p,g,g,g,g,
+g,g,g,ProffessorFeathers,p,g,Tex,lilly
+Taffy
