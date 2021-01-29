@@ -26,7 +26,7 @@ public class PlayerComponent extends JComponent{
 		player = new Player("playerr1.png");
 		map = new GameMap("map.txt");
 		pf = new PopupFactory();
-		door = new NPC("door", "door.txt", 80, 40);
+		//door = new NPC("door", "door.txt", 80, 40);
 	}
 
 	
